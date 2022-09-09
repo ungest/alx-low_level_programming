@@ -2,9 +2,9 @@
 
 /**
  *
- * main: Entry point
+ * main- Entry point
  *
- * Return: always 0 (success)
+ * Return: Always 0 (success)
  *
  */
 
