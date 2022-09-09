@@ -1,16 +1,17 @@
 #include <stdio.h>
 
-/*
- *This program prints a simple text
+/**
  *
- *The program uses puts function instead of printf function for output display
+ * main - print the string in the put function
  *
- * The program will end with the output zero
- *
+ * Description: It uses the main function
+ * the program prints the exact text programming is like building a multilingual puzzle
+ * Return: 0
  */
- 
- int main(void)
- {
- 	puts("\"Programming is like building a multilingual puzzle\n");
-	return(0);
- }
+
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle\n");
+	return (0);
+}
+
